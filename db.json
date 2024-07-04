@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 2345345,
+      "category": "food",
+      "title": "Food for Homeless",
+      "description": "Make food for homeless in local.",
+      "location": "Florida",
+      "date": "August 7, 2024",
+      "time": "8:00",
+      "petsAllowed": false,
+      "organizer": "Chawanakorn Sanannam"
     }
   ]
 }
